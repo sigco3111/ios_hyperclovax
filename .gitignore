@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+
+# 대용량 폴더 제외
+/LLM.swift-1.7.2/
+/gemma3/model/
+
+# 기타 일반적인 제외 항목
+*.log
+*.swp
+*.swo
+*.tmp 
